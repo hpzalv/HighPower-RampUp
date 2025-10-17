@@ -1,2 +1,2 @@
 # HighPower-RampUp
-Quick ramp up program for soldering controller
+Quick ramp up program for soldering controller.
